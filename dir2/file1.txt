@@ -1,1 +1,2 @@
 this is file1 in dir2
+file filefile file
